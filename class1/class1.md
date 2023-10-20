@@ -103,7 +103,7 @@ int main()
 
     int rank = 5;
 
-    printf("%s \t %s \t %.3c。\n"
+    printf("%s \t %s \t %.3c. \n"
            "%.2d-%d-%d\n"
            "%d \t %d \t %d\n"
            "%.1f \t %.2f %d%%\n",
@@ -150,7 +150,7 @@ int main()
 
     int rank = 5;
 
-    printf("%s \t %s \t %.3c。\n"
+    printf("%s \t %s \t %.3c. \n"
            "%.2d-%d-%d\n"
            "%d \t %d \t %d\n"
            "%.1f \t %.2f %d%%\n",
